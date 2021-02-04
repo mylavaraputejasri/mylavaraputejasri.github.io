@@ -1,2 +1,6 @@
-# mylavaraputejasri.github.io
-This is my website 
+# Mylavarapu teja sri muthyam
+## Educational details:
+### Vavasi enigneering colege 
+## Experience:
+### Andhra Pradesh State Self Development Course
+
